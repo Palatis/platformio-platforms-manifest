@@ -1,0 +1,9 @@
+{
+  "mcs51": [
+    {
+      "system": "*",
+      "url": "https://github.com/Palatis/platform-mcs51/archive/v0.0.1.tar.gz",
+      "version": "0.0.1"
+    }
+  ]
+}
